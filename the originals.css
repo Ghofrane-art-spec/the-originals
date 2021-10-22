@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Prompt:ital,wght@1,900&display=swap');
+body{
+    background-image: url(https://th.bing.com/th/id/R.2b98027ca739dcafce87506263fb4d63?rik=nTLls8p9D6YiJw&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lobster', cursive; 
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: red;
+}
+ul{
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+li a{
+    float: left;
+    display: block;
+    padding: 20px;
+    background-color: red;
+    color: black;
+    text-decoration: none;
+    font-family: 'Prompt', sans-serif;}
+li a:hover{
+    background-color: darkred;
+}
+p{
+float: left; 
+color: slategrey;
+}
+img {
+float: left;
+ }
+ h2{
+     color: darkred;
+ }
+
